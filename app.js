@@ -16,6 +16,7 @@ const test4 = ()=> {}
 const test5 = ()=> {}
 const test6 = ()=> {}
 const test7 = ()=> {}
+const test8 = ()=> {}
 
 const hotfix1 = {};
 
