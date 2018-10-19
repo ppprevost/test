@@ -17,6 +17,8 @@ const test5 = ()=> {}
 const test6 = ()=> {}
 const test7 = ()=> {}
 
+const hotfix1 = {};
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
