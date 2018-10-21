@@ -19,8 +19,10 @@ const test7 = ()=> {}
 const test8 = ()=> {}
 const test9 = ()=> {}
 const test10 = ()=> {}
+const test11 = ()=> {}
 
 const hotfix1 = {};
+const hotfix2 = {};
 
 
 // view engine setup
