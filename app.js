@@ -22,6 +22,7 @@ const test10 = ()=> {}
 const test11 = ()=> {}
 
 const hotfix1 = {};
+const hotfix2 = {};
 
 
 // view engine setup
