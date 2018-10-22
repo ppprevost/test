@@ -11,6 +11,7 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && sed -E \"s|\\[(LCI-[0-9]+)\\]([^(])|[\\1](https://jira.etf1.tf1.fr/browse/\\1)\\2|g\" CHANGELOG.md > CHANGELOG.md.tmp && mv CHANGELOG.md.tmp CHANGELOG.md && git add CHANGELOG.md package.json"
   }
 }
