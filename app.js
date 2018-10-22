@@ -23,7 +23,11 @@ const test11 = ()=> {}
 const test12 = ()=> {}
 const test13 = ()=> {}
 const test14 = ()=> {}
-const test15 = ()=> {}
+const test15 = ()=> {
+
+  console.log('hotfix console')
+
+}
 
 const hotfix1 = {};
 const hotfix2 = {};
