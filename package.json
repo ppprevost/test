@@ -3,7 +3,8 @@
   "version": "0.7.0-rc.1",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && sed -E \"s|\\[(LCI-[0-9]+)\\]([^(])|[\\1](https://jira.etf1.tf1.fr/browse/\\1)\\2|g\" CHANGELOG.md > CHANGELOG.md.tmp && mv CHANGELOG.md.tmp CHANGELOG.md && git add CHANGELOG.md package.json"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
