@@ -33,6 +33,7 @@ const test16 = ()=> {
 const test17 = ()=> {}
 const hotfix1 = {};
 const hotfix2 = {};
+const hotfix3 = {};
 
 
 // view engine setup
