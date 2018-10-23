@@ -24,12 +24,13 @@ const test12 = ()=> {}
 const test13 = ()=> {}
 const test14 = ()=> {}
 const test15 = ()=> {
+const test16 = ()=> {
 
   console.log('hotfix console')
 
 }
 
-const test16 = ()=> {}
+const test17 = ()=> {}
 const hotfix1 = {};
 const hotfix2 = {};
 
