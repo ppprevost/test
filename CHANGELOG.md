@@ -1,3 +1,8 @@
+<a name="0.13.0"></a>
+# [0.13.0](https://github.com/ppprevost/test/compare/v0.12.1-alpha.0...v0.13.0) (2018-10-23)
+
+
+
 <a name="0.12.1-alpha.0"></a>
 ## [0.12.1-alpha.0](https://github.com/ppprevost/test/compare/18.61.0...0.12.1-alpha.0) (2018-10-23)
 
