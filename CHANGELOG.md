@@ -1,3 +1,18 @@
+<a name="0.17.1-alpha.0"></a>
+## [0.17.1-alpha.0](https://github.com/ppprevost/test/compare/v0.16.2-alpha.0...v0.17.1-alpha.0) (2018-10-26)
+
+
+
+<a name="0.17.0-rc.1"></a>
+# [0.17.0-rc.1](https://github.com/ppprevost/test/compare/v0.16.1-alpha.0...v0.17.0-rc.1) (2018-10-26)
+
+
+
+<a name="0.16.0"></a>
+# [0.16.0](https://github.com/ppprevost/test/compare/v0.16.0-rc.1...v0.16.0) (2018-10-26)
+
+
+
 <a name="0.17.0-rc.1"></a>
 # [0.17.0-rc.1](https://github.com/ppprevost/test/compare/v0.16.0...v0.17.0-rc.1) (2018-10-26)
 
