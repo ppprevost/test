@@ -40,6 +40,7 @@ const hotfix4 = {};
 const hotfix5 = {};
 const hotfix6 = {};
 const hotfix7 = {};
+const hotfix8 = {};
 
 
 // view engine setup
