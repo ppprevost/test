@@ -44,6 +44,7 @@ const hotfix5 = {};
 const hotfix6 = {};
 const hotfix7 = {};
 const hotfix8 = {};
+const hotfix9 = {};
 
 
 // view engine setup
