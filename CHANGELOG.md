@@ -1,5 +1,15 @@
-<a name="0.25.0"></a>
-# [0.25.0](https://github.com/ppprevost/test/compare/11.13.21...0.25.0) (2018-11-02)
+<a name="0.26.0-rc.1"></a>
+# [0.26.0-rc.1](https://github.com/ppprevost/test/compare/v0.26.0-rc.0...v0.26.0-rc.1) (2018-11-07)
+
+
+
+<a name="0.26.0-rc.0"></a>
+# [0.26.0-rc.0](https://github.com/ppprevost/test/compare/v0.25.1-alpha.0...v0.26.0-rc.0) (2018-11-02)
+
+
+
+<a name="0.25.1-alpha.0"></a>
+## [0.25.1-alpha.0](https://github.com/ppprevost/test/compare/11.13.21...0.25.1-alpha.0) (2018-11-02)
 
 
 
