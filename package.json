@@ -1,6 +1,6 @@
 {
   "name": "untitled3",
-  "version": "0.25.1-alpha.1",
+  "version": "0.26.0-rc.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
