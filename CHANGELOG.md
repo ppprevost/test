@@ -1,3 +1,8 @@
+<a name="0.25.1-alpha.2"></a>
+## [0.25.1-alpha.2](https://github.com/ppprevost/test/compare/v0.25.1-alpha.1...v0.25.1-alpha.2) (2018-11-07)
+
+
+
 <a name="0.25.1-alpha.1"></a>
 ## [0.25.1-alpha.1](https://github.com/ppprevost/test/compare/v0.25.1-alpha.0...v0.25.1-alpha.1) (2018-11-07)
 
