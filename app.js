@@ -60,7 +60,7 @@ const test15 = () => {
   const hotfix8 = {};
   const hotfix9 = {};
   const hotfix10 = {};
-  const releaseTest = () => {}
+  const releaseTest2 = () => {}
 }
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
