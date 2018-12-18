@@ -1,3 +1,8 @@
+<a name="0.27.0-rc.0"></a>
+# [0.27.0-rc.0](https://github.com/ppprevost/test/compare/v0.26.2-alpha.0...v0.27.0-rc.0) (2018-12-18)
+
+
+
 <a name="0.26.2-alpha.0"></a>
 ## [0.26.2-alpha.0](https://github.com/ppprevost/test/compare/v0.26.1-1...v0.26.2-alpha.0) (2018-12-03)
 
