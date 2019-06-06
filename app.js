@@ -68,6 +68,10 @@ const testRebase2onBranch = "Rebase2";
 const testRebaseDevelop = "Commit created on develop ready to be rebased"
 const testRebaseDevelop2 = "test2 commit created on develop"
 const rebase3 = "test 3 created on develop"
+
+
+const testBranchRebase = "another commit create on branchRebase"
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
