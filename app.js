@@ -62,6 +62,8 @@ const test15 = () => {
   const hotfix10 = {};
   const releaseTest2 = () => {}
 }
+const testRebase1 = 'REBASE1'
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
