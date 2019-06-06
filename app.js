@@ -65,7 +65,7 @@ const test15 = () => {
 const testRebase1 = 'REBASE1'
 
 const testRebaseDevelop = "Commit created on develop ready to be rebased"
-
+const testRebaseDevelop2 = "test2 commit created on develop"
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
