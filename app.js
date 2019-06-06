@@ -62,8 +62,9 @@ const test15 = () => {
   const hotfix10 = {};
   const releaseTest2 = () => {}
 }
-const testRebase1 = 'REBASE1'
-
+const testRebase1 = 'REBASE1';
+// ok init again
+const testRebase2onBranch = "Rebase2";
 const testRebaseDevelop = "Commit created on develop ready to be rebased"
 const testRebaseDevelop2 = "test2 commit created on develop"
 const rebase3 = "test 3 created on develop"
